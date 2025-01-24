@@ -65,61 +65,38 @@
 </html>
 ```
 
+Introducing ALNK.ir URL Shortener
 
-    <header>
-        <h1>Introducing ALNK.ir URL Shortener</h1>
-    </header>
-    <main>
-        <section>
-            <h2>About ALNK.ir</h2>
-            <p>
-                <strong>ALNK.ir</strong> is an advanced and popular <strong>URL shortener</strong> that allows users to transform long, complex URLs into short, simple, and readable links. This Iranian platform offers its services for free and without any time limits.
-            </p>
-        </section>
-        <section>
-            <h2>Features of ALNK.ir URL Shortener</h2>
-            <ul>
-                <li><strong>Shorten long URLs:</strong> Convert lengthy URLs into concise, user-friendly links.</li>
-                <li><strong>Customizable links:</strong> Create personalized short links with custom keywords for specific purposes.</li>
-                <li><strong>Free and permanent:</strong> The service is completely free, and the shortened links never expire.</li>
-                <li><strong>Compatibility:</strong> Shortened links work seamlessly across all browsers and devices.</li>
-                <li><strong>Analytics:</strong> Track clicks, traffic sources, and user behavior on your short links.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Use Cases for ALNK.ir URL Shortener</h2>
-            <ul>
-                <li>Manage long and complex links efficiently.</li>
-                <li>Leverage short links for digital marketing campaigns.</li>
-                <li>Facilitate easy link sharing across social media and messaging platforms.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>How to Use ALNK.ir URL Shortener</h2>
-            <ol>
-                <li>Visit <a href="https://alnk.ir" target="_blank" rel="noopener noreferrer">ALNK.ir</a>.</li>
-                <li>Paste your long URL or text into the input field.</li>
-                <li>Click the "Shorten" button.</li>
-                <li>Copy the shortened link and share it wherever you want.</li>
-            </ol>
-        </section>
-        <section>
-            <h2>Why Choose ALNK.ir URL Shortener?</h2>
-            <ul>
-                <li><strong>Speed and simplicity:</strong> Shorten your links with just a few clicks.</li>
-                <li><strong>Free service:</strong> No charges are applied for using this platform.</li>
-                <li><strong>High security:</strong> Shortened links are safe and reliable for all users.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Collaboration and Advertising on ALNK.ir</h2>
-            <p>
-                If you’re interested in collaborating with this service or advertising on the platform, visit the <a href="https://alnk.ir/contact" target="_blank" rel="noopener noreferrer">Contact Us</a> page for more information.
-            </p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 ALNK.ir URL Shortener. All rights reserved.</p>
-    </footer>
+ALNK.ir is an advanced and popular URL shortener that helps users convert long, complex URLs into short, readable, and user-friendly links. This Iranian platform offers free and unlimited services, making it an ideal choice for both personal and professional users.
+Features of ALNK.ir URL Shortener
 
+    Shorten Long URLs: Easily transform lengthy and complicated links into concise, user-friendly ones.
+    Customizable Links: Personalize your short links with custom keywords to align with your goals.
+    Free and Permanent: The service is completely free, and the generated links never expire.
+    Wide Compatibility: Shortened links work seamlessly across all devices, browsers, and platforms, including social media and messaging apps.
+    Analytics and Tracking: Access insights about clicks, traffic sources, and user behavior on your short links.
 
+Use Cases for ALNK.ir URL Shortener
+
+    Managing Long Links: Simplify the sharing of complex links, such as articles, files, or landing pages.
+    Digital Marketing: Optimize your campaigns with custom, trackable short links.
+    Streamlined Sharing: Share links easily on platforms like WhatsApp, Telegram, and Twitter.
+
+How to Use ALNK.ir URL Shortener
+
+    Visit ALNK.ir.
+    Paste your long URL or text into the input box.
+    Click the "Shorten" button.
+    Copy the shortened link and share it with your audience.
+
+Why Choose ALNK.ir URL Shortener?
+
+    Fast and Simple: Transform your URLs with just a few clicks.
+    Completely Free: Enjoy all features without any hidden costs.
+    Safe and Secure: The links are reliable and trustworthy for all users.
+
+Collaboration and Advertising on ALNK.ir
+
+If you’re interested in partnering with ALNK.ir or advertising on the platform, visit the Contact Us page for further details.
+
+ALNK.ir is your go-to solution for simplifying link sharing, boosting marketing campaigns, and gaining insights into your audience—all while enjoying a free, easy-to-use platform.
